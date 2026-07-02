@@ -37,7 +37,8 @@ Enterprise web application developed with Laravel to manage IT assets, employee 
 
 ### Dashboard
 
-screenshots/dashboard.png
+![Dashboard](screenshots/dashboard.png)
+
 
 ### Assets
 
