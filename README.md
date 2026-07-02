@@ -67,3 +67,13 @@ npm install
 php artisan migrate
 php artisan serve
 ```
+
+## 👨‍💻 Autor
+
+**Jermain Arrieta Ramírez**
+
+Estudiante de Ingeniería de Sistemas.
+
+## 📄 Licencia
+
+Este proyecto fue desarrollado con fines académicos y como parte de mi portafolio de desarrollo web.
