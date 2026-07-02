@@ -42,19 +42,19 @@ Enterprise web application developed with Laravel to manage IT assets, employee 
 
 ### Assets
 
-![Assets](screenshots/assets.png)
+![Assets](assets.png)
 
 ### QR Scanner
 
-![QR](screenshots/qr.png)
+![QR](qr.png)
 
 ### Maintenance
 
-![Maintenance](screenshots/maintenance.png)
+![Maintenance](maintenance.png)
 
 ### Reports
 
-![Reports](screenshots/reports.png)
+![Reports](reports.png)
 
 ---
 
